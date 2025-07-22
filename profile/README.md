@@ -4,7 +4,7 @@
 
 ### 🚀 What is MediLens.io?
 
-MediLens.io is building the essential platform for healthcare data developers, starting with a best-in-class OHDSI Vocabulary API and expanding into a suite of secure, compliant, and developer-friendly data services. MediLens.io empowers healthcare organizations, researchers, and developers with reliable, scalable, and easy-to-integrate APIs, SDKs, and tools.
+MediLens.io is building the essential platform for healthcare data developers, starting with a best-in-class OHDSI Standartized Vocabulary API and expanding into a suite of secure, compliant, and developer-friendly data services. MediLens.io empowers healthcare organizations, researchers, and developers with reliable, scalable, and easy-to-integrate APIs, SDKs, and tools.
 
 ---
 
