@@ -10,8 +10,6 @@ MediLens.io is building the essential platform for healthcare data developers, s
 
 ### 🛠️ What is here
 
-- **OHDSI Vocabulary API**: High-uptime, production-grade access to standardized healthcare vocabularies with advanced search, mapping, and versioning.
-- **Developer Dashboard**: Self-service portal for API key management, usage analytics, and billing.
 - **SDKs & Examples**: Official SDKs and code samples in Python, R, JavaScript, and more, to accelerate your integration.
 - **OpenAPI Docs & Postman Collections**: Interactive documentation and ready-to-use collections for rapid prototyping.
 - **Community & Support**: Public issue tracker for feature requests, bug reports, and community discussions.
