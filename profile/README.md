@@ -1,6 +1,6 @@
-### What is MediLens.io?
+### What is OMOPHub?
 
-MediLens.io is building the essential platform for healthcare data developers, starting with a best-in-class OHDSI Standartized Vocabulary API and expanding into a suite of secure, compliant, and developer-friendly data services. MediLens.io empowers healthcare organizations, researchers, and developers with reliable, scalable, and easy-to-integrate APIs, SDKs, and tools.
+OMOPHub is building the essential platform for healthcare data developers, starting with a best-in-class OMOP Standartized Vocabulary API and expanding into a suite of secure, compliant, and developer-friendly data services. OMOPHub empowers healthcare organizations, researchers, and developers with reliable, scalable, and easy-to-integrate APIs, SDKs, and tools.
 
 ### What is here
 
@@ -11,19 +11,19 @@ MediLens.io is building the essential platform for healthcare data developers, s
 
 ### Useful Resources
 
-- **Developer Dashboard**: [medilens.io](https://medilens.io) API keys, logs, usage statistics.
-- **Documentation**: [docs.medilens.io](https://docs.medilens.io) for setup guides, API references, and tutorials.
-- **Examples**: Examples of SDKs and client libraries [github.com/orgs/MediLens-io/repositories](https://github.com/orgs/MediLens-io/repositories).
+- **Developer Dashboard**: [OMOPHub](https://omophub.com) API keys, logs, usage statistics.
+- **Documentation**: [docs.omophub.com](https://docs.omophub.com) for setup guides, API references, and tutorials.
+- **Examples**: Examples of SDKs and client libraries [github.com/orgs/MediLens-io/repositories](https://github.com/orgs/omophub/repositories).
 
 
 ### Contribution Guidelines
 
 We welcome contributions! You can:
-- Submit issues and feature requests in the [API repository](https://github.com/MediLens-io/api).
+- Submit issues and feature requests in the [API repository](https://github.com/omophub/api).
 - Contribute to SDKs and examples.
 - Join discussions and help improve our documentation.
 
-Please see our [contribution guidelines](https://github.com/MediLens-io/api/docs/CONTRIBUTING.md) for more details.
+Please see our [contribution guidelines](https://github.com/omophub/api/docs/CONTRIBUTING.md) for more details.
 
 
 ### Compliance & Security
@@ -33,7 +33,7 @@ Please see our [contribution guidelines](https://github.com/MediLens-io/api/docs
 - Audit trails and privacy-by-design architecture.
 
 
-### Why MediLens.io?
+### Why OMOPHub?
 
 - **API-first**: Everything is accessible via robust, well-documented APIs.
 - **Developer-centric**: SDKs, examples, and a dashboard designed for productivity.
