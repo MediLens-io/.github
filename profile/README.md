@@ -13,7 +13,7 @@ OMOPHub is building the essential platform for healthcare data developers, start
 
 - **Developer Dashboard**: [OMOPHub](https://omophub.com) API keys, logs, usage statistics.
 - **Documentation**: [docs.omophub.com](https://docs.omophub.com) for setup guides, API references, and tutorials.
-- **Examples**: Examples of SDKs and client libraries [github.com/orgs/MediLens-io/repositories](https://github.com/orgs/omophub/repositories).
+- **Examples**: Examples of SDKs and client libraries [github.com/orgs/omophub/repositories](https://github.com/orgs/omophub/repositories).
 
 
 ### Contribution Guidelines
